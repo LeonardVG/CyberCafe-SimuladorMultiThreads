@@ -1,0 +1,9 @@
+===== Estatísticas Finais =====
+Total de clientes atendidos: 142
+Clientes não atendidos: 6
+Tempo médio de espera por recurso: 0,00704 ms
+Total de IDs gerados:
+- Gamer IDs gerados: 61
+- Freelancer IDs gerados: 48
+- Estudante IDs gerados: 39
+=================================
